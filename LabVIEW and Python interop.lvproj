@@ -20,6 +20,7 @@
 			</Item>
 			<Item Name="interop.py" Type="Document" URL="../interop/interop.py"/>
 			<Item Name="interop.vi" Type="VI" URL="../interop/interop.vi"/>
+			<Item Name="multiply.vi" Type="VI" URL="../interop/multiply.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

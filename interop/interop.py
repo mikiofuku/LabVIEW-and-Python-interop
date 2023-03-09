@@ -1,6 +1,9 @@
 import numpy as np
 import random
 
+def multiply(val_int, val_int2):
+	return val_int * val_int2
+
 def run(val_int, val_dbl, val_str, val_intarray, val_dblarray, val_dblarray_re, val_dblarray_im, val_bool_2darray, cluster):
     
     print(type(val_int))
